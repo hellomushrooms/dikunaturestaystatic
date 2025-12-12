@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  padding-top: 50px;
+}
+
+.hero {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.hero img {
+  width: 100%;
+  height: auto;
+  filter: brightness(70%);
+}
+
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.playfair {
+  font-family: "Playfair Display", serif;
+  font-weight: 500;
+}
+
+.custom-width {
+  width: 75% !important;
+  max-width: 75%;
+}
