@@ -1,5 +1,7 @@
 # **DIKU Nature Stay Website**
 
+Link : https://hellomushrooms.github.io/dikunaturestaystatic/
+
 A fully responsive, client‑ready website built for a homestay (DIKU Nature Stay). The site provides visitors with a clean, intuitive interface to explore rooms, amenities, location details, and real‑time availability through an embedded Google Calendar. Designed end‑to‑end, including UI/UX, layout structure, color palette, and overall visual identity.
 
 ✨ Features
